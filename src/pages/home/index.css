@@ -1,0 +1,15 @@
+.home-wrap {
+    display: block;
+    width: 500px;
+    min-height: 500px;
+    border: 1px solid #000;
+    margin: 20px;
+}
+
+.pre-code {
+    color: red;
+}
+
+.active-bgcolor {
+    background-color: cornsilk;
+}
